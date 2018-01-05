@@ -1,6 +1,4 @@
-"""
-Background removal code
-"""
+
 import numpy as np
 from scipy import signal
 from PIL import Image
